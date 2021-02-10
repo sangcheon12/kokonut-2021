@@ -1,3 +1,3 @@
 # kokonut 2021 Update
 
-HTML & CSS got so much fun!
+HTML & CSS are so much fun!
